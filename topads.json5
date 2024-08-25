@@ -1,15 +1,13 @@
 {
-    // text on top ads
       "text": [
             "🔥🔥 Sun Pump New Listing channel https://t.me/+U-bv5v_gem41YThl"
       ],
     "markup": [
         [
-            // button on top ads
            [{
                "text": "🚀 Sun Pump 🚀",
                "url": "https://t.me/+U-bv5v_gem41YThl"
-           }],
+           }]
         ]
     ],
 
