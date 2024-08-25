@@ -1,0 +1,49 @@
+[
+  // row 1
+  [
+    {
+      text: "Announcements",
+      url: "https://t.me/centralwaterfall"
+    },
+    {
+      text: "Solana",
+      url: "https://t.me/+DHqr9hhHxStiMGVl"
+    },
+    {
+      text: "BSC",
+      url: "https://t.me/+UTJzxlxMyA5yms3t"
+    },
+    {
+      text: "Base",
+      url: "https://t.me/+vzc5OMC0bXRjNDll"
+    },
+    {
+      text: "ETH",
+      url: "https://t.me/+PtN1jGa0IyY4MGY1"
+    },
+  ],
+  // row 2
+  [
+    {
+      text: "Polygon",
+      url: "https://t.me/+6-DPJ9y_pUo0NTY1"
+    },
+    {
+      text: "Optimism",
+      url: "https://t.me/+RFtbBa_9SsxjZmQ9"
+    },
+    {
+      text: "Arbitrum",
+      url: "https://t.me/+y3VEM7B4QbdkNjY1"
+    },
+    {
+      text: "Avax",
+      url: "https://t.me/+4l9tqflx0HU2N2I1"
+    },
+    {
+      text: "SunPump",
+      url: "https://t.me/+U-bv5v_gem41YThl"
+    },
+  ],
+
+]
