@@ -1,0 +1,38 @@
+{
+    // text on top ads
+      "text": [
+            "🔥🔥 Sun Pump New Listing channel https://t.me/+U-bv5v_gem41YThl"
+      ],
+    "markup": [
+        [
+            // button on top ads
+           [{
+               "text": "🚀 Sun Pump 🚀",
+               "url": "https://t.me/+U-bv5v_gem41YThl"
+           }],
+        ]
+    ],
+
+    "chat": {
+        "-1002033059172": { "name": "SUI New listing", "post": 516},
+	"-1001908743658": { "name": "BLZE tracking bot", "post": 33436},
+        "-1001511426691": { "name": "Solana New listing", "post": 12638},
+        "-1001362260934": { "name": "BSC New listing", "post": 339082},
+        "-1001574747638": { "name": "ETH New listing", "post": 25123},
+        "-1001951932969": { "name": "Polygon New listing", "post": 5410},
+        "-1002011370817": { "name": "Fantom New listing", "post": 159},
+        "-1001976374241": { "name": "Arbitrum New listing", "post": 9431},
+        "-1001846643897": { "name": "Avax New listing", "post": 8807},
+        "-1002021508816": { "name": "Metis New listing", "post": 242},
+        "-1001612492942": { "name": "C98 whale alert", "post": 4777},
+        "-1001850040157": { "name": "OP New listing", "post": 720},
+        "-1002011088683": { "name": "Zksync New listing", "post": 21},
+        "-1001974822811": { "name": "Based New listing", "post": 1718},
+	"-1001385151005": { "name": "Central waterfall", "post": 991},
+        "-1002088807859": { "name": "Manta Pacific New listing", "post": 4},
+        "-1002027544826": { "name": "TOMO whale alert", "post": 729}
+    }
+
+
+
+}
