@@ -78,8 +78,7 @@
     ],
 
     "chat": {
-	"-1002213405214": { "name": "SunPump New listing", "post": 102},
-	"-1001908743658": { "name": "BLZE tracking bot", "post": 33436},
+	    "-1002213405214": { "name": "SunPump New listing", "post": 102},
         "-1001511426691": { "name": "Solana New listing", "post": 12638},
         "-1001362260934": { "name": "BSC New listing", "post": 339082},
         "-1001574747638": { "name": "ETH New listing", "post": 25123},
@@ -90,7 +89,11 @@
         "-1001850040157": { "name": "OP New listing", "post": 720},
         "-1001974822811": { "name": "Base New listing", "post": 1718},
 	    "-1001385151005": { "name": "Central waterfall", "post": 991},
-        "-1002027544826": { "name": "TOMO whale alert", "post": 729}
+        "-1002027544826": { "name": "TOMO whale alert", "post": 729},
+        "-1002199693717": { "name": "Pumpfun New Listing", "post": 75},
+        "-1002299118412": { "name": "TON New Listing", "post": 18},
+        "-1002279802988": { "name": "GasPump New Listing", "post": 420},
+        "-1002033059172": { "name": "SUI New Listing", "post": 516},
     }
 
 
